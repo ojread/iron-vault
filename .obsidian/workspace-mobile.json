@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ironsworn/Characters/Vigo.md",
+                "file": "Ironsworn/Truths.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vigo"
+              "title": "Truths"
             }
           }
         ]
@@ -84,7 +84,7 @@
         "state": {
           "type": "iron-vault-datasworn-content-view",
           "state": {
-            "file": "Ironsworn/Characters/Vigo.md"
+            "file": "Ironsworn/Truths.md"
           },
           "icon": "package-search",
           "title": "Iron Vault Homebrew Inspector"
@@ -113,5 +113,7 @@
     }
   },
   "active": "ab75ffd15b239c64",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Ironsworn/Characters/Vigo.md"
+  ]
 }
