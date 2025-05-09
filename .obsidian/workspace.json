@@ -85,8 +85,8 @@
             "state": {
               "type": "iron-vault-sidebar-view",
               "state": {},
-              "icon": "iron-vault",
-              "title": "Iron Vault"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -97,8 +97,8 @@
               "state": {
                 "file": "Ironsworn/Characters/Vigo.md"
               },
-              "icon": "package-search",
-              "title": "Iron Vault Homebrew Inspector"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -109,11 +109,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "iron-vault:Show Iron Vault commands": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "65524cd16539cfc3",
