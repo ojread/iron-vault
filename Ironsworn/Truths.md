@@ -15,7 +15,9 @@ The imposing hills and mountains of the Ironlands are rich in iron ore. Most pri
 ## Legacies
 ```iron-vault-truth
 truth:classic/legacies
+inserted
 ```
+Before the Ironlanders, before even the firstborn, another people lived here. Their ancient ruins are found throughout the Ironlands.
 
 ## Communities
 ```iron-vault-truth
