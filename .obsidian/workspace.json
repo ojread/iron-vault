@@ -85,8 +85,8 @@
             "state": {
               "type": "iron-vault-sidebar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "iron-vault",
+              "title": "Iron Vault"
             }
           },
           {
@@ -111,7 +111,9 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "iron-vault:Show Iron Vault commands": false
     }
   },
   "active": "65524cd16539cfc3",
