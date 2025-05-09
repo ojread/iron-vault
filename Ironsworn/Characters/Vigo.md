@@ -16,7 +16,16 @@ Bonds_XPEarned: 0
 FailureTrack_Progress: 0
 FailureTrack_XPEarned: 0
 iron-vault-kind: character
-
+assets:
+  - id: asset:classic/path/devotant
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options:
+      gods_name: Gorn
+      stat: iron
 ---
 
 
