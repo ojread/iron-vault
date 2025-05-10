@@ -28,7 +28,6 @@ assets:
       stat: iron
 ---
 
-
 ```iron-vault-character-info
 ```
 

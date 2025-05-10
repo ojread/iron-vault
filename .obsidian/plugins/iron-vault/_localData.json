@@ -1,3 +1,7 @@
 {
-  "campaigns": {}
+  "campaigns": {
+    "Ironsworn/Ironsworn.md": {
+      "activeCharacter": "Ironsworn/Characters/Vigo.md"
+    }
+  }
 }
