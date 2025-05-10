@@ -21,6 +21,14 @@ iron-vault-kind: character
 description: Bounty hunter for hire
 pronouns: He/him
 callsign: Cutter
+assets:
+  - id: asset:starforged/path/bounty_hunter
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options: {}
 ---
 
 
