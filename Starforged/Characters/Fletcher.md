@@ -47,7 +47,7 @@ assets:
       integrity/battered: false
       integrity/cursed: false
     options:
-      name: ""
+      name: Profit Margin
 ---
 
 
