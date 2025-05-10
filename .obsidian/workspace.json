@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ironsworn/Characters/Vigo.md",
+                "file": "Ironsworn/Truths.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vigo"
+              "title": "Truths"
             }
           }
         ]
@@ -119,8 +119,8 @@
   "active": "65524cd16539cfc3",
   "lastOpenFiles": [
     "Ironsworn/Ironsworn.md",
-    "Ironsworn/Characters/Vigo.md",
     "Ironsworn/Truths.md",
+    "Ironsworn/Characters/Vigo.md",
     "Ironsworn/Lore",
     "Ironsworn/Factions",
     "Ironsworn/Locations",
