@@ -37,6 +37,17 @@ assets:
     controls: {}
     options:
       2/name: 
+  - id: asset:starforged/command_vehicle/starship
+    abilities:
+      - true
+      - false
+      - false
+    controls:
+      integrity: 5
+      integrity/battered: false
+      integrity/cursed: false
+    options:
+      name: ""
 ---
 
 
