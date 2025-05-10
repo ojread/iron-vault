@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starforged/Journals/Session 0.md",
+                "file": "Starforged/Characters/Fletcher.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Fletcher"
             }
           },
           {
@@ -143,9 +143,9 @@
   },
   "active": "65524cd16539cfc3",
   "lastOpenFiles": [
+    "Starforged/Journals/Session 0.md",
     "Starforged/Factions/Ebon Suns.md",
     "Starforged/Factions/Order of the Blessed Builders.md",
-    "Starforged/Journals/Session 0.md",
     "Starforged/Factions/Silver Syndicate.md",
     "Starforged/Characters/Fletcher.md",
     "Ironsworn/Characters/Vigo.md",
