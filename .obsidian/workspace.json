@@ -37,8 +37,7 @@
               "title": "Fletcher"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,10 +141,10 @@
       "iron-vault:Show Iron Vault commands": false
     }
   },
-  "active": "03f42cb2f998738a",
+  "active": "65524cd16539cfc3",
   "lastOpenFiles": [
-    "Starforged/Journals/Session 0.md",
     "Starforged/Characters/Fletcher.md",
+    "Starforged/Journals/Session 0.md",
     "Starforged/Starforged.md",
     "Starforged/Truths.md",
     "Ironsworn/Factions/Faction Influence Grid.md",
