@@ -29,6 +29,14 @@ assets:
       - false
     controls: {}
     options: {}
+  - id: asset:starforged/path/gunner
+    abilities:
+      - true
+      - false
+      - false
+    controls: {}
+    options:
+      2/name: 
 ---
 
 
