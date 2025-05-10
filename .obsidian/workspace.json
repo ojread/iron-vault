@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ironsworn/Truths.md",
+                "file": "Ironsworn/Lore/Althus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Truths"
+              "title": "Althus"
             }
           }
         ]
@@ -97,8 +97,8 @@
               "state": {
                 "file": "Ironsworn/Characters/Vigo.md"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "package-search",
+              "title": "Iron Vault Homebrew Inspector"
             }
           }
         ]
@@ -118,13 +118,15 @@
   },
   "active": "65524cd16539cfc3",
   "lastOpenFiles": [
-    "Ironsworn/Ironsworn.md",
+    "Ironsworn/Journals/Session 0.md",
+    "Ironsworn/Lore/Althus.md",
     "Ironsworn/Truths.md",
+    "Untitled.canvas",
+    "Ironsworn/Ironsworn.md",
     "Ironsworn/Characters/Vigo.md",
     "Ironsworn/Lore",
     "Ironsworn/Factions",
     "Ironsworn/Locations",
-    "Ironsworn/Journals/Session 0.md",
     "Ironsworn/Journals",
     "Ironsworn/Progress",
     "Ironsworn/Clocks",
