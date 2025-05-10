@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ironsworn/Factions/Faction Influence Grid.md",
+                "file": "Starforged/Characters/Fletcher.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Faction Influence Grid"
+              "title": "Fletcher"
             }
           }
         ]
@@ -114,6 +114,7 @@
   },
   "active": "ab75ffd15b239c64",
   "lastOpenFiles": [
+    "Ironsworn/Factions/Faction Influence Grid.md",
     "Starforged/Truths.md",
     "Starforged/Starforged.md",
     "Starforged/Journals/Session 0.md",
@@ -136,7 +137,6 @@
     "/Ironsworn/Journals/Session 0.md",
     "/Ironsworn/Journals",
     "/Ironsworn/Factions/Faction Influence Grid.md",
-    "Ironsworn/Factions/Faction Influence Grid.md",
     "/Ironsworn/Factions",
     "/Ironsworn",
     "Untitled.canvas",
