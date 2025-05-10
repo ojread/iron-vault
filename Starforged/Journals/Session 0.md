@@ -1,4 +1,12 @@
-This is the beginning of a great adventure...
+```iron-vault-mechanics
+oracle name="[Faction Oracles \/ Faction Name \/ Faction Name Template](datasworn:oracle_rollable:starforged\/faction\/name\/template)" result="Ebon Suns" roll=48 {
+    - "This is the beginning of a great adventure..."
+    oracle name="[Faction Oracles \/ Faction Name \/ Legacy](datasworn:oracle_rollable:starforged\/faction\/name\/legacy)" result="Ebon" roll=25
+    oracle name="[Faction Oracles \/ Faction Name \/ Identity](datasworn:oracle_rollable:starforged\/faction\/name\/identity)" result="Suns" roll=78
+}
+```
+
+
 
 ```iron-vault-mechanics
 oracle-group name="Character Oracles > Character Name: New Character Oracles > Character Name" {
@@ -7,11 +15,9 @@ oracle-group name="Character Oracles > Character Name: New Character Oracles > C
     oracle name="[Character Oracles \/ Character Name \/ Callsign](datasworn:oracle_rollable:starforged\/character\/name\/callsign)" result="Cutter" roll=25
 }
 ```
-
 ```iron-vault-mechanics
 oracle name="[Campaign Launch Oracles \/ Inciting Incident](datasworn:oracle_rollable:starforged\/campaign_launch\/inciting_incident)" result="Search for a missing expedition in the depths of a precursor vault" roll=82
 ```
-
 ```iron-vault-mechanics
 oracle-group name="Faction: [[Silver Syndicate]]" {
     oracle name="[Faction Oracles \/ Faction Type](datasworn:oracle_rollable:starforged\/faction\/type)" result="[Dominion](datasworn:oracle_rollable:starforged\/faction\/dominion)" roll=1
@@ -23,7 +29,6 @@ oracle-group name="Faction: [[Silver Syndicate]]" {
     oracle name="[Faction Oracles \/ Dominion: Leadership](datasworn:oracle_rollable:starforged\/faction\/dominion_leadership)" result="Disputed leadership" roll=11
 }
 ```
-
 ```iron-vault-mechanics
 oracle-group name="Faction: [[Order of the Blessed Builders]]" {
     oracle name="[Faction Oracles \/ Faction Type](datasworn:oracle_rollable:starforged\/faction\/type)" result="[Guild](datasworn:oracle_rollable:starforged\/faction\/guild)" roll=55
@@ -34,9 +39,20 @@ oracle-group name="Faction: [[Order of the Blessed Builders]]" {
     }
     oracle name="[Faction Oracles \/ Guild](datasworn:oracle_rollable:starforged\/faction\/guild)" result="Engineers" roll=21
 }
+```
+```iron-vault-mechanics
+oracle-group name="Faction: [[Silent Sphere]]" {
+    oracle name="[Faction Oracles \/ Faction Type](datasworn:oracle_rollable:starforged\/faction\/type)" result="[Fringe Group](datasworn:oracle_rollable:starforged\/faction\/fringe_group)" roll=90
+    oracle name="[Faction Oracles \/ Faction Name \/ Faction Name Template](datasworn:oracle_rollable:starforged\/faction\/name\/template)" result="Silent Sphere" roll=19 {
+        oracle name="[Faction Oracles \/ Faction Name \/ Legacy](datasworn:oracle_rollable:starforged\/faction\/name\/legacy)" result="Silent" roll=78
+        oracle name="[Faction Oracles \/ Faction Name \/ Affiliation](datasworn:oracle_rollable:starforged\/faction\/name\/affiliation)" result="Sphere" roll=90
+    }
+    oracle name="[Faction Oracles \/ Fringe Group](datasworn:oracle_rollable:starforged\/faction\/fringe_group)" result="Scavengers" roll=78
+}
 
 ```
 
+a
 
 
 
