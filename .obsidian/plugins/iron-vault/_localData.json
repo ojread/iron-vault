@@ -2,6 +2,9 @@
   "campaigns": {
     "Ironsworn/Ironsworn.md": {
       "activeCharacter": "Ironsworn/Characters/Vigo.md"
+    },
+    "Starforged/Starforged.md": {
+      "activeCharacter": "Starforged/Characters/Fletcher.md"
     }
   }
 }
