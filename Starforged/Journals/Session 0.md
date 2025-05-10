@@ -8,3 +8,8 @@ oracle-group name="Character Oracles > Character Name: New Character Oracles > C
 }
 ```
 
+```iron-vault-mechanics
+oracle name="[Campaign Launch Oracles \/ Inciting Incident](datasworn:oracle_rollable:starforged\/campaign_launch\/inciting_incident)" result="Search for a missing expedition in the depths of a precursor vault" roll=82
+
+```
+
